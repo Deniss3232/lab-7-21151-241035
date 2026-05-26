@@ -79,3 +79,6 @@ Análisis del desempeño de proveedores, concentración de productos, tiempos de
 - PostgreSQL corre en el puerto `5434` del host
 - Metabase corre en el puerto `3000` del host
 - Todos los indicadores fueron construidos usando **Native query / SQL** en Metabase
+
+## Video 
+https://drive.google.com/file/d/1haDfOgqCcMIbwRbxKwQyf0pW-cW6FyGT/view?usp=sharing
